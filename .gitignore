@@ -1,0 +1,5 @@
+# APK/AAB 바이너리는 Release에만 업로드, 저장소에는 커밋하지 않음
+*.apk
+*.aab
+*.keystore
+*.jks
